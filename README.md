@@ -11,3 +11,6 @@ Run the container from the chatApp image
 ```
 docker run -it --name chatAppInstance chatApp
 ```
+## To Do List
+  - Include the design diagram
+  - Improve the README
